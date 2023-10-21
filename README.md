@@ -1,3 +1,3 @@
 # Workflows
 
-A collection of certain workflows, which fixes a certain problem.
+A collection of workflows, which fixes a certain problem.
