@@ -1,0 +1,2 @@
+git reset <commit>
+git cherry-pick -n <commit>
