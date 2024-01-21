@@ -1,5 +1,3 @@
-From [Linuxquestions.org][1]
-
 Full procedure to install the package related to a `.dsc` file:
 
 0. Before you begin, note that, besides the `.dsc` file, you must have the corresponding `xxx-orig.tar.xz` and `xxx-debian.tar.xz` files.
