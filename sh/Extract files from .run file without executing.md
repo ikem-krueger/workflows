@@ -1,3 +1,3 @@
 ```
-./installer.run —noexec —target /tmp/destination
+./installer.run --noexec --target /tmp/destination
 ```
